@@ -4,4 +4,4 @@ packages:
 - '.'
 extra-deps:
 - indentation-0.2.1.1
-resolver: lts-3.12
+resolver: lts-3.15
