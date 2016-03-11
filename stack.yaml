@@ -3,6 +3,6 @@ extra-package-dbs: []
 packages:
 - '.'
 extra-deps:
-- indentation-0.2.1.1
+- indentation-0.2.1.2
 - text-1.2.2.0
-resolver: lts-5.4
+resolver: lts-5.6
